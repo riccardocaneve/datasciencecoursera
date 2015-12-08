@@ -1,25 +1,33 @@
-pwd
-getwd
-getwd()
-setwd(Rprove)
-x <- rnorm(100)
-x
-cia +kc m,ò#
-dknl#
-#
-dmdl#
-+cmkdmc#
-dkccmdò#
-kncdm#
-+#
-      cmkdò#
-dc mdm
-x <- read.csv('outcome-of-care-measures.csv', colClasses = 'character')
-x
-head(x)
-ciao
 outcome
 outcome <- read.csv('outcome-of-care-measures.csv', colClasses = 'character')
-outcome
-outcome
 head(outcome)
+hist(runif(1000))
+mns = NULL#
+for (i in 1 : 1000) mns = c(mns, mean(runif(40)))#
+hist(mns)
+mns = NULL#
+> for (i in 1 : 1000) mns = c(mns, mean(runif(40)))#
+> hist(mns)
+mns = NULL
+x = 4
+x
+x <- 4
+x
+x <- 3
+x
+x = 3
+x
+for (i in 1 : 1000) {}
+for (i in 1 : 1000) {}
+for (i in 1 : 1000) {mns = c(mns, mean(runif(40)))}
+hist(mns)
+hist(runif(1000))
+hist(runif(1000))
+hist(runif(1000))
+x = 3*e +3
+x = 3*y - 5
+plot(x)
+x <- 3*y - 5
+plot(x)
+hist(rnorm(23))
+?hist
